@@ -1,0 +1,4 @@
+Feature implemented:
+Created new Interface called “IHospitalRepository” and declared all the methods (eg. CreateNewPatinent, DeletePatient, UpdatePatient, AddDoctor etc.) into interface and then declared methods in interface has implemented in a separate class called “HospitalRepository”. 
+
+Repository Design Pattern has followed to redesign the application structure. 
